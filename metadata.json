@@ -1,0 +1,6 @@
+{
+  "name": "AURA - Culinary Atelier & Scroll Experience",
+  "description": "An immersive gastronomic experience featuring scroll-driven floating food choreographies, dynamic ingredient explosions, interactive tasting menus, and sensory table bookings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
